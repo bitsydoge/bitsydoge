@@ -1,6 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/471393/210032007-7b44d14e-821c-4cb0-9204-18bab2a523ba.png)
-
-
- - 👋 Hi, I’m @bitsydoge a professional fullstack developper. 
- - 👀 Actually working mainly on Android application with Java/Kotlin.
- - 🌱 FOSS enthusiast, and Game maker and 3D artist amateur.
+ - 👋 Hi, I’m @bitsydoge a professional multiplatform & fullstack developper. 
+ - 👀 Actually working mainly on Android application with Java/Kotlin but have a long background with C/C++ and diverse other stacks.
+ - 🌱 FOSS enthusiast, Game maker and 3D artist amateur.
