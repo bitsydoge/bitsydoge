@@ -1,3 +1,3 @@
- - 👋 Hi, I’m @bitsydoge a professional multiplatform & fullstack developper. 
- - 👀 Actually working mainly on Android application with Java/Kotlin but have a long background with C/C++ and diverse other stacks.
- - 🌱 FOSS enthusiast, Game maker and 3D artist amateur.
+ - 👋 Hi, I’m @bitsydoge aSoftware Engineer
+ - 👀 Actually working mainly on Android application with Java/Kotlin but also have a long background with C/C++ and lots of other stacks.
+ - 🌱 FOSS enthusiast, Hobbyist game dev and 3D artist.
